@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+Course T.A.
+======
+* MMI727 - Deep Learning: Methods and Applications
+* MMI713 - Applied Parallel Programming On GPU (CUDA)
+* IS566 - Image Processing Algorithms
+* IS100 - Introduction to Information Technologies and Applications
+* Digital Systems (ESOGU student T.A.)
+* Introduction to programming (ESOGU student T.A.)
+
+NVIDIA Deep Learning Institute T.A.
+======
+* Deep Learning Fundamentals Workshops
+  * METU, Bilkent University, BTK, Atilim University, Ankara University
+  
+* CUDA and GPU Programming Workshops
+  * METU, Aselsan, ESEN, Khalifa University
+  
+Talks
+======
+* Introduction to AI-ML-DL - DefineX Brown Bag Sessions

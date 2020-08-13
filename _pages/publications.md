@@ -11,12 +11,12 @@ Paired 3D Model Generation with Conditional Generative Adversarial Networks [pdf
 :   **Cihan Öngün**, Alptekin Temizel
 :   *European Conference on Computer Vision Workshops (ECCV-W), 2018*
 
-Anomaly detection for video surveillance in crowded environments
-:   *M.Sc. Thesis, 2014*
-
 Density aware anomaly detection in crowded scenes [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7533674)
 :   Ayse Elvan Gunduz, **Cihan Ongun**, Tugba Taskaya Temizel, Alptekin Temizel
-:   *IET Computer Vision, 2014*
+:   *IET Computer Vision, 2016*
+
+Anomaly detection for video surveillance in crowded environments
+:   *M.Sc. Thesis, 2014*
 
 Local anomaly detection in crowded scenes using Finite-Time Lyapunov Exponent based clustering [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6918690)
 :   **Cihan Ongun**, Alptekin Temizel, Tugba Taskaya Temizel
