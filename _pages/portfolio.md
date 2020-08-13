@@ -8,7 +8,7 @@ author_profile: true
  * [LPMNet: Latent Part Modification and Generation for 3D Point Clouds](https://github.com/cihanongun/LPMNet)
  * [Point Cloud Autoencoder](https://github.com/cihanongun/Point-Cloud-Autoencoder)
  * 3D Synthetic Data Generation using Generative Adversarial Networks, BAP Project
- * Multimodal Egocentric Activity Recognition, ISCTE, Lisbon / Portugal
+ * IRIS: Towards Natural Interaction and Communication, ISCTE, Lisbon / Portugal
  * Anomaly Detection for Crowded Environment Video Surveillance Applications – TUBITAK
  * Activity Companion Robot (ACRO) For Alzheimer's Family Caregivers - Scirobot
  * Speech Driven Lip Synchronization – B.Sc. graduation project
