@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 Medium

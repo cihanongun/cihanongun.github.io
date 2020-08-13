@@ -3,8 +3,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Course T.A.
-======
+## Course T.A.
+
 * MMI727 - Deep Learning: Methods and Applications
 * MMI713 - Applied Parallel Programming On GPU (CUDA)
 * IS566 - Image Processing Algorithms
@@ -12,8 +12,8 @@ Course T.A.
 * Digital Systems (ESOGU student T.A.)
 * Introduction to programming (ESOGU student T.A.)
 
-NVIDIA Deep Learning Institute T.A.
-======
+## NVIDIA Deep Learning Institute T.A.
+
 * Deep Learning Fundamentals Workshops
   * METU, Bilkent University, BTK, Atilim University, Ankara University
   
@@ -22,4 +22,7 @@ NVIDIA Deep Learning Institute T.A.
   
 Talks
 ======
-* Introduction to AI-ML-DL - DefineX Brown Bag Sessions
+* Introduction to AI-ML-DL
+  * DefineX Brown Bag Sessions
+* Clustering of local behaviour in crowd videos
+  * 22nd Signal Processing and Communications Applications Conference (SIU)
