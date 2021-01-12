@@ -5,7 +5,10 @@ author_profile: true
 ---
 LPMNet: Latent Part Modification and Generation for 3D Point Clouds [pdf](https://arxiv.org/abs/2008.03560)
 :    **Cihan Öngün**, Alptekin Temizel
-:   *Submitted for Consideration for Publication in The Visual Computer, International Journal of Computer Graphics*
+
+Generative Data Augmentation for Vehicle Detection in Aerial Images [pdf](https://arxiv.org/abs/2012.04902)
+:    Hilmi Kumdakcı, **Cihan Öngün**, Alptekin Temizel
+:   *25th International Conference on Pattern Recognition (ICPR 2020), Workshop on Analysis of Aerial Motion Imagery (WAAMI 2020)*
 
 Paired 3D Model Generation with Conditional Generative Adversarial Networks [pdf](https://arxiv.org/abs/1808.03082)
 :   **Cihan Öngün**, Alptekin Temizel
